@@ -1,0 +1,27 @@
+{
+  "name": "LoginUsingSQL",
+  "version": "1.0.0",
+  "description": "A simple login, using NodeJS and MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usagisama/LoginUsingSQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Usagisama/LoginUsingSQL/issues"
+  },
+  "homepage": "https://github.com/Usagisama/LoginUsingSQL#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7"
+  }
+}
